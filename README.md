@@ -9,9 +9,9 @@ Used with files with grammar "C" and "C++".
 Clone of [linter-gcc](https://github.com/hebaishi/linter-gcc) by [Hebaishi](https://github.com/hebaishi).
 
 ## Screenshot
-
-[//] ![linter-gcc screenshot](https://github.com/hebaishi/images/blob/master/lintergcc-screenshot.png?raw=true)
-
+<!--
+ ![linter-gcc screenshot](https://github.com/hebaishi/images/blob/master/lintergcc-screenshot.png?raw=true)
+-->
 ## Project-Specific settings
 
 Just place a file called ```.cppcheck-cfg.json``` in your project root, with the following content:
