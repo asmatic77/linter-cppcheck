@@ -10,7 +10,7 @@ Clone of [linter-gcc](https://github.com/hebaishi/linter-gcc) by [Hebaishi](http
 
 ## Screenshot
 
-![linter-gcc screenshot](https://github.com/hebaishi/images/blob/master/lintergcc-screenshot.png?raw=true)
+[//] ![linter-gcc screenshot](https://github.com/hebaishi/images/blob/master/lintergcc-screenshot.png?raw=true)
 
 ## Project-Specific settings
 
